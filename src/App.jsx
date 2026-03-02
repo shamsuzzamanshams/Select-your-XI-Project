@@ -4,7 +4,7 @@ import navImg from './assets/logo.png';
 import dollarImg from "./assets/Currency.png"
 import AvailablePlayers from './components/AvailabelPlayers/AvailablePlayers';
 import SelectedPlayres from './components/SelectedPlayers/SelectedPlayres';
-import { Suspense } from 'react';
+import { Suspense, useState } from 'react';
 
 const fetchPlayer = async () => {
   const res = await fetch("/players.json")
@@ -12,6 +12,8 @@ const fetchPlayer = async () => {
 }
 
 function App() {
+
+  const [toggle, setToggle] = useState(true);
 
   const playersPromise = fetchPlayer();
 
@@ -31,11 +33,23 @@ function App() {
         </div>
       </div>
 
-      <Suspense fallback={<span className="loading loading-dots loading-xl"></span>}>
-        <AvailablePlayers playersPromise={playersPromise}></AvailablePlayers>
-      </Suspense>
+      <div className='max-w-[1200px] mx-auto flex justify-between items-center'>
+        <h3>Available Players</h3>
+        <div>
+          <button onClick={() => setToggle(true)} className={`py-3 px-4 border-1 border-gray-400 rounded-l-2xl border-r-0 ${toggle === true ? "bg-[#E7FE29]" : ""}`}>Available</button>
+          <button onClick={() => setToggle(false)} className={`py-3 px-4 border-1 border-gray-400 rounded-r-2xl border-l-0 ${toggle === false ? "bg-[#E7FE29]" : ""}`}>Selected <span>(0)</span></button>
+        </div>
+      </div>
 
-      <SelectedPlayres></SelectedPlayres>
+      {
+        toggle === true ? <Suspense fallback={<span className="loading loading-dots loading-xl"></span>}>
+          <AvailablePlayers playersPromise={playersPromise}></AvailablePlayers>
+        </Suspense> : <SelectedPlayres></SelectedPlayres>
+      }
+
+
+
+
     </>
   )
 }
