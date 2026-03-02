@@ -1,0 +1,134 @@
+[
+	{
+		"id": 1,
+		"player-image": "https://example.com/images/virat-kohli.jpg",
+		"player-name": "Virat Kohli",
+		"player-country": "India",
+		"playing-role": "Top-order Batsman",
+		"rating": 9.8,
+		"bating style": "Right-hand bat",
+		"bowling style": "Right-arm medium",
+		"player-peice": "$1,200,000"
+	},
+	{
+		"id": 2,
+		"player-image": "https://example.com/images/joe-root.jpg",
+		"player-name": "Joe Root",
+		"player-country": "England",
+		"playing-role": "Top-order Batsman",
+		"rating": 9.5,
+		"bating style": "Right-hand bat",
+		"bowling style": "Right-arm off break",
+		"player-peice": "$1,000,000"
+	},
+	{
+		"id": 3,
+		"player-image": "https://example.com/images/babar-azam.jpg",
+		"player-name": "Babar Azam",
+		"player-country": "Pakistan",
+		"playing-role": "Top-order Batsman",
+		"rating": 9.6,
+		"bating style": "Right-hand bat",
+		"bowling style": "Right-arm off break",
+		"player-peice": "$950,000"
+	},
+	{
+		"id": 4,
+		"player-image": "https://example.com/images/kane-williamson.jpg",
+		"player-name": "Kane Williamson",
+		"player-country": "New Zealand",
+		"playing-role": "Top-order Batsman",
+		"rating": 9.4,
+		"bating style": "Right-hand bat",
+		"bowling style": "Right-arm off break",
+		"player-peice": "$900,000"
+	},
+	{
+		"id": 5,
+		"player-image": "https://example.com/images/ben-stokes.jpg",
+		"player-name": "Ben Stokes",
+		"player-country": "England",
+		"playing-role": "All-rounder",
+		"rating": 9.3,
+		"bating style": "Left-hand bat",
+		"bowling style": "Right-arm fast-medium",
+		"player-peice": "$1,500,000"
+	},
+	{
+		"id": 6,
+		"player-image": "https://example.com/images/david-warner.jpg",
+		"player-name": "David Warner",
+		"player-country": "Australia",
+		"playing-role": "Opening Batsman",
+		"rating": 9.2,
+		"bating style": "Left-hand bat",
+		"bowling style": "Right-arm leg break",
+		"player-peice": "$850,000"
+	},
+	{
+		"id": 7,
+		"player-image": "https://example.com/images/steve-smith.jpg",
+		"player-name": "Steve Smith",
+		"player-country": "Australia",
+		"playing-role": "Top-order Batsman",
+		"rating": 9.4,
+		"bating style": "Right-hand bat",
+		"bowling style": "Right-arm leg break",
+		"player-peice": "$1,100,000"
+	},
+	{
+		"id": 8,
+		"player-image": "https://example.com/images/shakib-al-hasan.jpg",
+		"player-name": "Shakib Al Hasan",
+		"player-country": "Bangladesh",
+		"playing-role": "All-rounder",
+		"rating": 9.1,
+		"bating style": "Left-hand bat",
+		"bowling style": "Slow left-arm orthodox",
+		"player-peice": "$800,000"
+	},
+	{
+		"id": 9,
+		"player-image": "https://example.com/images/jos-buttler.jpg",
+		"player-name": "Jos Buttler",
+		"player-country": "England",
+		"playing-role": "Wicketkeeper Batsman",
+		"rating": 9.0,
+		"bating style": "Right-hand bat",
+		"bowling style": "N/A",
+		"player-peice": "$950,000"
+	},
+	{
+		"id": 10,
+		"player-image": "https://example.com/images/rohit-sharma.jpg",
+		"player-name": "Rohit Sharma",
+		"player-country": "India",
+		"playing-role": "Opening Batsman",
+		"rating": 9.3,
+		"bating style": "Right-hand bat",
+		"bowling style": "Right-arm off break",
+		"player-peice": "$1,050,000"
+	},
+	{
+		"id": 11,
+		"player-image": "https://example.com/images/trent-boult.jpg",
+		"player-name": "Trent Boult",
+		"player-country": "New Zealand",
+		"playing-role": "Bowler",
+		"rating": 8.9,
+		"bating style": "Right-hand bat",
+		"bowling style": "Left-arm fast-medium",
+		"player-peice": "$750,000"
+	},
+	{
+		"id": 12,
+		"player-image": "https://example.com/images/jasprit-bumrah.jpg",
+		"player-name": "Jasprit Bumrah",
+		"player-country": "India",
+		"playing-role": "Bowler",
+		"rating": 9.2,
+		"bating style": "Right-hand bat",
+		"bowling style": "Right-arm fast",
+		"player-peice": "$1,300,000"
+	}
+]
