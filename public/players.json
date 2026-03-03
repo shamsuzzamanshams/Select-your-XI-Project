@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1,
-		"player_image": "https://i.ibb.co.com/d4dyKjcH/1696748634550-Shakib-Al-Hasan.jpg",
+		"player_image": "https://i.ibb.co.com/35TNBxdy/images.webp",
 		"player_name": "Virat Kohli",
 		"player_country": "India",
 		"playing_role": "Top-order Batsman",
@@ -12,7 +12,7 @@
 	},
 	{
 		"id": 2,
-		"player_image": "https://i.ibb.co.com/d4dyKjcH/1696748634550-Shakib-Al-Hasan.jpg",
+		"player_image": "https://i.ibb.co.com/3YLsdKhT/hemfoqpo-joe-root-afp-625x300-18-December-24.jpg",
 		"player_name": "Joe Root",
 		"player_country": "England",
 		"playing_role": "Top-order Batsman",
@@ -23,7 +23,7 @@
 	},
 	{
 		"id": 3,
-		"player_image": "https://i.ibb.co.com/d4dyKjcH/1696748634550-Shakib-Al-Hasan.jpg",
+		"player_image": "https://i.ibb.co.com/6048hTZn/Babar-Azam-1.jpg",
 		"player_name": "Babar Azam",
 		"player_country": "Pakistan",
 		"playing_role": "Top-order Batsman",
@@ -34,7 +34,7 @@
 	},
 	{
 		"id": 4,
-		"player_image": "https://i.ibb.co.com/d4dyKjcH/1696748634550-Shakib-Al-Hasan.jpg",
+		"player_image": "https://i.ibb.co.com/qLdsCVQt/kane-williamson-20251102102814.webp",
 		"player_name": "Kane Williamson",
 		"player_country": "New Zealand",
 		"playing_role": "Top-order Batsman",
@@ -45,7 +45,7 @@
 	},
 	{
 		"id": 5,
-		"player_image": "https://i.ibb.co.com/d4dyKjcH/1696748634550-Shakib-Al-Hasan.jpg",
+		"player_image": "https://i.ibb.co.com/S73vN75k/4ef905d0-82e1-11ef-93fc-47e7b6e6a87f.jpg",
 		"player_name": "Ben Stokes",
 		"player_country": "England",
 		"playing_role": "All-rounder",
@@ -56,7 +56,7 @@
 	},
 	{
 		"id": 6,
-		"player_image": "https://i.ibb.co.com/d4dyKjcH/1696748634550-Shakib-Al-Hasan.jpg",
+		"player_image": "https://i.ibb.co.com/fVgBTpm5/1707837858139-davididiwww.webp",
 		"player_name": "David Warner",
 		"player_country": "Australia",
 		"playing_role": "Opening Batsman",
@@ -67,7 +67,7 @@
 	},
 	{
 		"id": 7,
-		"player_image": "https://i.ibb.co.com/d4dyKjcH/1696748634550-Shakib-Al-Hasan.jpg",
+		"player_image": "https://i.ibb.co.com/wZJFWGLG/Steve-Smith.jpg",
 		"player_name": "Steve Smith",
 		"player_country": "Australia",
 		"playing_role": "Top-order Batsman",
@@ -89,7 +89,7 @@
 	},
 	{
 		"id": 9,
-		"player_image": "https://i.ibb.co.com/d4dyKjcH/1696748634550-Shakib-Al-Hasan.jpg",
+		"player_image": "https://i.ibb.co.com/xqxFLB3c/5557.jpg",
 		"player_name": "Jos Buttler",
 		"player_country": "England",
 		"playing_role": "Wicketkeeper Batsman",
@@ -100,7 +100,7 @@
 	},
 	{
 		"id": 10,
-		"player_image": "https://i.ibb.co.com/d4dyKjcH/1696748634550-Shakib-Al-Hasan.jpg",
+		"player_image": "https://i.ibb.co.com/RTDmW6dy/rohit-sharma-biography-age-family-career-achievements-ipl-all-details-0c7f41ea22.webp",
 		"player_name": "Rohit Sharma",
 		"player_country": "India",
 		"playing_role": "Opening Batsman",
@@ -111,7 +111,7 @@
 	},
 	{
 		"id": 11,
-		"player_image": "https://i.ibb.co.com/d4dyKjcH/1696748634550-Shakib-Al-Hasan.jpg",
+		"player_image": "https://i.ibb.co.com/7t8mR958/329661-6.jpg",
 		"player_name": "Trent Boult",
 		"player_country": "New Zealand",
 		"playing_role": "Bowler",
@@ -122,7 +122,7 @@
 	},
 	{
 		"id": 12,
-		"player_image": "https://i.ibb.co.com/d4dyKjcH/1696748634550-Shakib-Al-Hasan.jpg",
+		"player_image": "https://i.ibb.co.com/2Yt4NqN1/jasprit-bumrah-india-match-ball-end-innings-440nw-15366607bi.jpg",
 		"player_name": "Jasprit Bumrah",
 		"player_country": "India",
 		"playing_role": "Bowler",
